@@ -6,6 +6,6 @@ This is my initial foray into the world of coding. I am looking to switch career
 
 I am currently learning to code using the following resources:
 
-freecodecamp.org - HTML, CSS, Javascript, Python
-PY4E - Python3
-edX - CS50 2021
+freecodecamp.org - HTML, CSS, Javascript, Python <br>
+PY4E - Python3 <br>
+edX - CS50x 2021
